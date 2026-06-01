@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+logs/
+data/papers/*
+!data/papers/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+.vscode/
+.DS_Store
